@@ -35,6 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+![SimpleTweet2](https://user-images.githubusercontent.com/46458166/146632454-93de457e-9923-46da-b38f-66667e0ca824.gif)
 
 
 
